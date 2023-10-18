@@ -1,0 +1,22 @@
+/* body{
+  background-color: rgb(171, 207, 195);
+} */
+
+.parent-container{
+  height: 100vh;
+  overflow: auto;
+  background-color: aliceblue;
+}
+.parent-container h1{
+  color: #31a499;
+  font-size: 50px;
+  border-bottom: 2px dashed #565f66;
+  width: max-content;
+}
+.parent-container p b{
+  color: #2f292b;
+}
+.brand-container{
+  border-left: 5px solid #565f66;
+  padding-left: 26px;
+}
